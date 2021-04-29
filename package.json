@@ -1,6 +1,6 @@
 {
   "name": "find-unique-array",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get unique array from an array of duplicate elements",
   "keywords": [
     "unique",
