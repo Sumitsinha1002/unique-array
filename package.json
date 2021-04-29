@@ -1,0 +1,27 @@
+{
+  "name": "find-unique-array",
+  "version": "1.0.0",
+  "description": "Get unique array from an array of duplicate elements",
+  "keywords": [
+    "unique",
+    "array",
+    "duplicate",
+    "elements"
+  ],
+  "homepage": "https://github.com/Sumitsinha1002/unique-array",
+  "bugs": {
+    "url": "https://github.com/Sumitsinha1002/unique-array/issues",
+    "email": "sumitaec108@gmail.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sumitsinha1002/unique-array.git"
+  },
+  "author": "Sumit Sinha",
+  "license": "MIT",
+  "private": false
+}
